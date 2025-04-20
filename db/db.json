@@ -1,0 +1,300 @@
+{
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Sarah Chen",
+      "designation": "Creative Director",
+      "company": "Visionary Studios",
+      "testimonial": "Adit Content transformed our raw footage into cinematic masterpieces. Their attention to detail and creative vision exceeded our expectations.",
+      "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150&h=150"
+    },
+    {
+      "id": "2",
+      "name": "Marcus Rodriguez",
+      "designation": "Head of Production",
+      "company": "Stellar Films",
+      "testimonial": "The team's technical expertise and artistic sensibility are unmatched. They've become our go-to partners for all post-production work.",
+      "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=150&h=150"
+    },
+    {
+      "id": "3",
+      "name": "Emma Thompson",
+      "designation": "Marketing Director",
+      "company": "Innovate Digital",
+      "testimonial": "Working with Adit Content has elevated our brand storytelling to new heights. Their editing prowess brings our vision to life beautifully.",
+      "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&q=80&w=150&h=150"
+    }
+  ],
+  "services": [
+    {
+      "id": "video-editing",
+      "title": "Video Editing",
+      "description": "Transform raw footage into compelling narratives with our premium editing expertise.",
+      "icon": "Video"
+    },
+    {
+      "id": "color-grading",
+      "title": "Color Grading",
+      "description": "Enhance your visuals with cinematic color treatment and professional finishing.",
+      "icon": "Palette"
+    },
+    {
+      "id": "motion-graphics",
+      "title": "Motion Graphics",
+      "description": "Add dynamic visual elements and stunning animations to elevate your content.",
+      "icon": "Box"
+    },
+    {
+      "id": "sound-design",
+      "title": "Sound Design",
+      "description": "Create immersive audio experiences with professional sound mixing and effects.",
+      "icon": "Music"
+    },
+    {
+      "id": "social-media",
+      "title": "Social Media Cuts",
+      "description": "Optimize your content for maximum impact across all social platforms.",
+      "icon": "Share2"
+    },
+    {
+      "id": "3d-animation",
+      "title": "3D Animation",
+      "description": "Bring your ideas to life with cutting-edge 3D animation and visual effects.",
+      "icon": "Rotate3d"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Cinematic Wedding Film",
+      "description": "A beautiful celebration captured with artistic flair and emotion.",
+      "type": "Wedding",
+      "thumbnail": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/wedding.mp4",
+      "slug": "cinematic-wedding-film"
+    },
+    {
+      "id": 2,
+      "title": "Tech Innovation",
+      "description": "Sleek product launch video for the next generation of tech.",
+      "type": "Commercial",
+      "thumbnail": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/tech.mp4",
+      "slug": "tech-innovation"
+    },
+    {
+      "id": 3,
+      "title": "Urban Streetwear",
+      "description": "Dynamic fashion video showcasing the latest urban collection.",
+      "type": "Fashion",
+      "thumbnail": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/fashion.mp4",
+      "slug": "urban-streetwear"
+    },
+    {
+      "id": 4,
+      "title": "Mountain Echo",
+      "description": "A breathtaking documentary about mountain climbing.",
+      "type": "Documentary",
+      "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/documentary.mp4",
+      "slug": "mountain-echo"
+    },
+    {
+      "id": 5,
+      "title": "Culinary Journey",
+      "description": "Mouthwatering food cinematography for a renowned restaurant.",
+      "type": "Food",
+      "thumbnail": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/food.mp4",
+      "slug": "culinary-journey"
+    },
+    {
+      "id": 6,
+      "title": "Festival Highlights",
+      "description": "Capturing the energy of an epic summer music festival.",
+      "type": "Event",
+      "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/festival.mp4",
+      "slug": "festival-highlights"
+    },
+    {
+      "id": 7,
+      "title": "Luxury Real Estate",
+      "description": "A cinematic walkthrough of modern high-end property.",
+      "type": "Real Estate",
+      "thumbnail": "https://images.unsplash.com/photo-1572120360610-d971b9b0d111?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/real-estate.mp4",
+      "slug": "luxury-real-estate"
+    },
+    {
+      "id": 8,
+      "title": "Athlete Spotlight",
+      "description": "Personal branding piece for a professional athlete.",
+      "type": "Sports",
+      "thumbnail": "https://images.unsplash.com/photo-1588776814546-ec7d2cfc3183?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/athlete.mp4",
+      "slug": "athlete-spotlight"
+    },
+    {
+      "id": 9,
+      "title": "Startup Story",
+      "description": "A day in the life at a fast-growing startup.",
+      "type": "Corporate",
+      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/startup.mp4",
+      "slug": "startup-story"
+    },
+    {
+      "id": 10,
+      "title": "Luxury Watch Promo",
+      "description": "Sleek and elegant product promo for a timepiece brand.",
+      "type": "Product",
+      "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/watch.mp4",
+      "slug": "luxury-watch-promo"
+    },
+    {
+      "id": 11,
+      "title": "Wildlife Wonders",
+      "description": "Documentary capturing the untouched beauty of the wild.",
+      "type": "Documentary",
+      "thumbnail": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/wildlife.mp4",
+      "slug": "wildlife-wonders"
+    },
+    {
+      "id": 12,
+      "title": "Night City",
+      "description": "A moody, futuristic look at the city after dark.",
+      "type": "Short Film",
+      "thumbnail": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/night-city.mp4",
+      "slug": "night-city"
+    },
+    {
+      "id": 13,
+      "title": "Product Unboxing",
+      "description": "Unboxing and hands-on showcase for a tech product.",
+      "type": "Commercial",
+      "thumbnail": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/unboxing.mp4",
+      "slug": "product-unboxing"
+    },
+    {
+      "id": 14,
+      "title": "Bridal Editorial",
+      "description": "High fashion bridal shoot with cinematic visuals.",
+      "type": "Fashion",
+      "thumbnail": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/bridal.mp4",
+      "slug": "bridal-editorial"
+    },
+    {
+      "id": 15,
+      "title": "Desert Drive",
+      "description": "Epic car commercial shot in the dunes.",
+      "type": "Automotive",
+      "thumbnail": "https://images.unsplash.com/photo-1597009123608-ebb9fcbf1baf?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/desert-drive.mp4",
+      "slug": "desert-drive"
+    },
+    {
+      "id": 16,
+      "title": "Street Documentary",
+      "description": "Real voices and stories from the heart of the city.",
+      "type": "Documentary",
+      "thumbnail": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/street-doc.mp4",
+      "slug": "street-documentary"
+    },
+    {
+      "id": 17,
+      "title": "Nature Timelapse",
+      "description": "Time-bending journey through seasons in the wild.",
+      "type": "Nature",
+      "thumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/nature-timelapse.mp4",
+      "slug": "nature-timelapse"
+    },
+    {
+      "id": 18,
+      "title": "Cafe Vibes",
+      "description": "Cozy promo video for a local coffee shop.",
+      "type": "Hospitality",
+      "thumbnail": "https://images.unsplash.com/photo-1517685352821-92cf88aee5a5?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/cafe.mp4",
+      "slug": "cafe-vibes"
+    },
+    {
+      "id": 19,
+      "title": "Dance Reels",
+      "description": "Energetic dance performance with sharp choreography.",
+      "type": "Performance",
+      "thumbnail": "https://images.unsplash.com/photo-1520367745676-8aa58b8d5a57?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/dance.mp4",
+      "slug": "dance-reels"
+    },
+    {
+      "id": 20,
+      "title": "Remote Work Culture",
+      "description": "Insightful visual storytelling into work-from-home lifestyle.",
+      "type": "Corporate",
+      "thumbnail": "https://images.unsplash.com/photo-1600185365483-a4f5f9f0617e?auto=format&fit=crop&q=80&w=800",
+      "video": "/videos/remote.mp4",
+      "slug": "remote-work-culture"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "All"
+    },
+    {
+      "id": 2,
+      "name": "Wedding"
+    },
+    {
+      "id": 3,
+      "name": "Fashion"
+    },
+    {
+      "id": 4,
+      "name": "Documentary"
+    },
+    {
+      "id": 5,
+      "name": "Commercial"
+    },
+    {
+      "id": 6,
+      "name": "Food"
+    }
+  ],
+  "features": [
+    {
+      "id": 1,
+      "title": "Boutique Studio Experience",
+      "description": "Personal attention and direct collaboration with our senior editors on every project.",
+      "icon": "Users"
+    },
+    {
+      "id": 2,
+      "title": "Fast Turnaround",
+      "description": "Quick delivery without compromising on quality, typically within 48-72 hours.",
+      "icon": "Timer"
+    },
+    {
+      "id": 3,
+      "title": "Cinematic Quality",
+      "description": "Hollywood-grade color grading and professional post-production techniques.",
+      "icon": "Film"
+    },
+    {
+      "id": 4,
+      "title": "Unlimited Revisions",
+      "description": "We work with you until every frame is perfect, with no revision limits.",
+      "icon": "Repeat"
+    }
+  ]
+}
