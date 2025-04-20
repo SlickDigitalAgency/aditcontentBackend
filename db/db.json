@@ -64,187 +64,205 @@
     }
   ],
   "projects": [
-    {
-      "id": 1,
-      "title": "Cinematic Wedding Film",
-      "description": "A beautiful celebration captured with artistic flair and emotion.",
-      "type": "Wedding",
-      "thumbnail": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/wedding.mp4",
-      "slug": "cinematic-wedding-film"
-    },
-    {
-      "id": 2,
-      "title": "Tech Innovation",
-      "description": "Sleek product launch video for the next generation of tech.",
-      "type": "Commercial",
-      "thumbnail": "https://images.unsplash.com/photo-1535303311164-664fc9ec6532?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/tech.mp4",
-      "slug": "tech-innovation"
-    },
-    {
-      "id": 3,
-      "title": "Urban Streetwear",
-      "description": "Dynamic fashion video showcasing the latest urban collection.",
-      "type": "Fashion",
-      "thumbnail": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/fashion.mp4",
-      "slug": "urban-streetwear"
-    },
-    {
-      "id": 4,
-      "title": "Mountain Echo",
-      "description": "A breathtaking documentary about mountain climbing.",
-      "type": "Documentary",
-      "thumbnail": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/documentary.mp4",
-      "slug": "mountain-echo"
-    },
-    {
-      "id": 5,
-      "title": "Culinary Journey",
-      "description": "Mouthwatering food cinematography for a renowned restaurant.",
-      "type": "Food",
-      "thumbnail": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/food.mp4",
-      "slug": "culinary-journey"
-    },
-    {
-      "id": 6,
-      "title": "Festival Highlights",
-      "description": "Capturing the energy of an epic summer music festival.",
-      "type": "Event",
-      "thumbnail": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/festival.mp4",
-      "slug": "festival-highlights"
-    },
-    {
-      "id": 7,
-      "title": "Luxury Real Estate",
-      "description": "A cinematic walkthrough of modern high-end property.",
-      "type": "Real Estate",
-      "thumbnail": "https://images.unsplash.com/photo-1572120360610-d971b9b0d111?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/real-estate.mp4",
-      "slug": "luxury-real-estate"
-    },
-    {
-      "id": 8,
-      "title": "Athlete Spotlight",
-      "description": "Personal branding piece for a professional athlete.",
-      "type": "Sports",
-      "thumbnail": "https://images.unsplash.com/photo-1588776814546-ec7d2cfc3183?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/athlete.mp4",
-      "slug": "athlete-spotlight"
-    },
-    {
-      "id": 9,
-      "title": "Startup Story",
-      "description": "A day in the life at a fast-growing startup.",
-      "type": "Corporate",
-      "thumbnail": "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/startup.mp4",
-      "slug": "startup-story"
-    },
-    {
-      "id": 10,
-      "title": "Luxury Watch Promo",
-      "description": "Sleek and elegant product promo for a timepiece brand.",
-      "type": "Product",
-      "thumbnail": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/watch.mp4",
-      "slug": "luxury-watch-promo"
-    },
-    {
-      "id": 11,
-      "title": "Wildlife Wonders",
-      "description": "Documentary capturing the untouched beauty of the wild.",
-      "type": "Documentary",
-      "thumbnail": "https://images.unsplash.com/photo-1516979187457-637abb4f9353?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/wildlife.mp4",
-      "slug": "wildlife-wonders"
-    },
-    {
-      "id": 12,
-      "title": "Night City",
-      "description": "A moody, futuristic look at the city after dark.",
-      "type": "Short Film",
-      "thumbnail": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/night-city.mp4",
-      "slug": "night-city"
-    },
-    {
-      "id": 13,
-      "title": "Product Unboxing",
-      "description": "Unboxing and hands-on showcase for a tech product.",
-      "type": "Commercial",
-      "thumbnail": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/unboxing.mp4",
-      "slug": "product-unboxing"
-    },
-    {
-      "id": 14,
-      "title": "Bridal Editorial",
-      "description": "High fashion bridal shoot with cinematic visuals.",
-      "type": "Fashion",
-      "thumbnail": "https://images.unsplash.com/photo-1492724441997-5dc865305da7?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/bridal.mp4",
-      "slug": "bridal-editorial"
-    },
-    {
-      "id": 15,
-      "title": "Desert Drive",
-      "description": "Epic car commercial shot in the dunes.",
-      "type": "Automotive",
-      "thumbnail": "https://images.unsplash.com/photo-1597009123608-ebb9fcbf1baf?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/desert-drive.mp4",
-      "slug": "desert-drive"
-    },
-    {
-      "id": 16,
-      "title": "Street Documentary",
-      "description": "Real voices and stories from the heart of the city.",
-      "type": "Documentary",
-      "thumbnail": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/street-doc.mp4",
-      "slug": "street-documentary"
-    },
-    {
-      "id": 17,
-      "title": "Nature Timelapse",
-      "description": "Time-bending journey through seasons in the wild.",
-      "type": "Nature",
-      "thumbnail": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/nature-timelapse.mp4",
-      "slug": "nature-timelapse"
-    },
-    {
-      "id": 18,
-      "title": "Cafe Vibes",
-      "description": "Cozy promo video for a local coffee shop.",
-      "type": "Hospitality",
-      "thumbnail": "https://images.unsplash.com/photo-1517685352821-92cf88aee5a5?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/cafe.mp4",
-      "slug": "cafe-vibes"
-    },
-    {
-      "id": 19,
-      "title": "Dance Reels",
-      "description": "Energetic dance performance with sharp choreography.",
-      "type": "Performance",
-      "thumbnail": "https://images.unsplash.com/photo-1520367745676-8aa58b8d5a57?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/dance.mp4",
-      "slug": "dance-reels"
-    },
-    {
-      "id": 20,
-      "title": "Remote Work Culture",
-      "description": "Insightful visual storytelling into work-from-home lifestyle.",
-      "type": "Corporate",
-      "thumbnail": "https://images.unsplash.com/photo-1600185365483-a4f5f9f0617e?auto=format&fit=crop&q=80&w=800",
-      "video": "/videos/remote.mp4",
-      "slug": "remote-work-culture"
-    }
-  ],
+  {
+    "id": 1,
+    "title": "Cinematic Wedding Film",
+    "description": "A beautiful celebration captured with artistic flair and emotion.",
+    "type": "Wedding",
+    "thumbnail": "https://img.youtube.com/vi/3TGbQ0z49OY/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=3TGbQ0z49OY",
+    "slug": "cinematic-wedding-film"
+  },
+  {
+    "id": 2,
+    "title": "Tech Innovation",
+    "description": "Sleek product launch video for the next generation of tech.",
+    "type": "Commercial",
+    "thumbnail": "https://img.youtube.com/vi/lJIrF4YjHfQ/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=lJIrF4YjHfQ",
+    "slug": "tech-innovation"
+  },
+  {
+    "id": 3,
+    "title": "Urban Streetwear",
+    "description": "Dynamic fashion video showcasing the latest urban collection.",
+    "type": "Fashion",
+    "thumbnail": "https://img.youtube.com/vi/tRHzKZR9Y0Y/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=tRHzKZR9Y0Y",
+    "slug": "urban-streetwear"
+  },
+  {
+    "id": 4,
+    "title": "Mountain Echo",
+    "description": "A breathtaking documentary about mountain climbing.",
+    "type": "Documentary",
+    "thumbnail": "https://img.youtube.com/vi/y5DDg-YjDYM/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=y5DDg-YjDYM",
+    "slug": "mountain-echo"
+  },
+  {
+    "id": 5,
+    "title": "Culinary Journey",
+    "description": "Mouthwatering food cinematography for a renowned restaurant.",
+    "type": "Food",
+    "thumbnail": "https://img.youtube.com/vi/a03U45jFxOI/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=a03U45jFxOI",
+    "slug": "culinary-journey"
+  },
+  {
+    "id": 6,
+    "title": "Festival Highlights",
+    "description": "Capturing the energy of an epic summer music festival.",
+    "type": "Event",
+    "thumbnail": "https://img.youtube.com/vi/mN0zPOpADL4/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=mN0zPOpADL4",
+    "slug": "festival-highlights"
+  },
+  {
+    "id": 7,
+    "title": "Luxury Real Estate",
+    "description": "A cinematic walkthrough of modern high-end property.",
+    "type": "Real Estate",
+    "thumbnail": "https://img.youtube.com/vi/F0GqXrBzG08/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=F0GqXrBzG08",
+    "slug": "luxury-real-estate"
+  },
+  {
+    "id": 8,
+    "title": "Athlete Spotlight",
+    "description": "Personal branding piece for a professional athlete.",
+    "type": "Sports",
+    "thumbnail": "https://img.youtube.com/vi/jyfb9zlik0E/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=jyfb9zlik0E",
+    "slug": "athlete-spotlight"
+  },
+  {
+    "id": 9,
+    "title": "Startup Story",
+    "description": "A day in the life at a fast-growing startup.",
+    "type": "Corporate",
+    "thumbnail": "https://img.youtube.com/vi/UCfDUL6asqY/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=UCfDUL6asqY",
+    "slug": "startup-story"
+  },
+  {
+    "id": 10,
+    "title": "Luxury Watch Promo",
+    "description": "Sleek and elegant product promo for a timepiece brand.",
+    "type": "Product",
+    "thumbnail": "https://img.youtube.com/vi/4BPY__K0U3w/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=4BPY__K0U3w",
+    "slug": "luxury-watch-promo"
+  },
+  {
+    "id": 11,
+    "title": "Wildlife Wonders",
+    "description": "Documentary capturing the untouched beauty of the wild.",
+    "type": "Documentary",
+    "thumbnail": "https://img.youtube.com/vi/nS3hGBbSZl0/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=nS3hGBbSZl0",
+    "slug": "wildlife-wonders"
+  },
+  {
+    "id": 12,
+    "title": "Night City",
+    "description": "A moody, futuristic look at the city after dark.",
+    "type": "Short Film",
+    "thumbnail": "https://img.youtube.com/vi/BzMLA8YIgG0/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=BzMLA8YIgG0",
+    "slug": "night-city"
+  },
+  {
+    "id": 13,
+    "title": "Product Unboxing",
+    "description": "Unboxing and hands-on showcase for a tech product.",
+    "type": "Commercial",
+    "thumbnail": "https://img.youtube.com/vi/1Ud4E5A4Lnc/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=1Ud4E5A4Lnc",
+    "slug": "product-unboxing"
+  },
+  {
+    "id": 14,
+    "title": "Bridal Editorial",
+    "description": "High fashion bridal shoot with cinematic visuals.",
+    "type": "Fashion",
+    "thumbnail": "https://img.youtube.com/vi/VWYcM6k5YdA/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=VWYcM6k5YdA",
+    "slug": "bridal-editorial"
+  },
+  {
+    "id": 15,
+    "title": "Desert Drive",
+    "description": "Epic car commercial shot in the dunes.",
+    "type": "Automotive",
+    "thumbnail": "https://img.youtube.com/vi/4Q7FTjhvZ7Y/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=4Q7FTjhvZ7Y",
+    "slug": "desert-drive"
+  },
+  {
+    "id": 16,
+    "title": "Street Documentary",
+    "description": "Real voices and stories from the heart of the city.",
+    "type": "Documentary",
+    "thumbnail": "https://img.youtube.com/vi/Jmu2xGzH9ik/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=Jmu2xGzH9ik",
+    "slug": "street-documentary"
+  },
+  {
+    "id": 17,
+    "title": "Nature Timelapse",
+    "description": "Time-bending journey through seasons in the wild.",
+    "type": "Nature",
+    "thumbnail": "https://img.youtube.com/vi/kvm3zFJKniU/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=kvm3zFJKniU",
+    "slug": "nature-timelapse"
+  },
+  {
+    "id": 18,
+    "title": "Cafe Vibes",
+    "description": "Cozy promo video for a local coffee shop.",
+    "type": "Hospitality",
+    "thumbnail": "https://img.youtube.com/vi/kFeacU1ZcN8/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=kFeacU1ZcN8",
+    "slug": "cafe-vibes"
+  },
+  {
+    "id": 19,
+    "title": "Dance Reels",
+    "description": "Energetic dance performance with sharp choreography.",
+    "type": "Performance",
+    "thumbnail": "https://img.youtube.com/vi/ykmFyHJthgY/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=ykmFyHJthgY",
+    "slug": "dance-reels"
+  },
+  {
+    "id": 20,
+    "title": "Remote Work Culture",
+    "description": "Insightful visual storytelling into work-from-home lifestyle.",
+    "type": "Corporate",
+    "thumbnail": "https://img.youtube.com/vi/TUSj2kTzshM/hqdefault.jpg",
+    "video": "https://www.youtube.com/watch?v=TUSj2kTzshM",
+    "slug": "remote-work-culture"
+  },
+  {
+    "id": 21,
+    "title": "YouTube Short Clip",
+    "description": "A creative and fun visual on YouTube Shorts.",
+    "type": "Short",
+    "thumbnail": "https://img.youtube.com/vi/ARc8x89I0cs/hqdefault.jpg",
+    "video": "https://youtube.com/shorts/ARc8x89I0cs?si=jxfMuYHW6VDQpT9Q",
+    "slug": "youtube-short-clip"
+  },
+  {
+    "id": 22,
+    "title": "YouTube Creative Edit",
+    "description": "Unique storytelling through motion and music.",
+    "type": "Creative",
+    "thumbnail": "https://img.youtube.com/vi/Y0izFme1AwI/hqdefault.jpg",
+    "video": "https://youtu.be/Y0izFme1AwI?si=8frTGRq1y6PPuyAg",
+    "slug": "youtube-creative-edit"
+  }
+],
   "categories": [
     {
       "id": 1,
